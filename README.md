@@ -1,4 +1,4 @@
-# Autenticación con Token Firebase | Angular
+# CRUD - HTTP Firebase | Angular.
 
 Este proyecto fue generado con [Angular CLI](https://github.com/angular/angular-cli) _**version 10.0.7.**_
 
